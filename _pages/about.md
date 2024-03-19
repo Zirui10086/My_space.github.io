@@ -7,9 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* I am a Ph.D. student in [CCVL](https://ccvl.jhu.edu/) group at [Johns Hopkins University](https://www.jhu.edu/), advised by [Prof. Alan Yuille](https://scholar.google.com/citations?user=FJ-huxgAAAAJ).
 
-* I received my master's degree at [ETH Zürich](https://ethz.ch/en.html), advised by [Prof. Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ).
+* I received my master's degree at [Haifa University](https://www.haifa.ac.il/?lang=en), advised by [Dr. Regina Katsman](https://scholar.google.com/citations?hl=en&user=bgpBkvUAAAAJ).
 
 <!-- * I was a visiting research student in [CCVL](https://ccvl.jhu.edu/) group at Johns Hopkins University in 2019. <br>
 I worked closely with [Prof. Alan Yuille](www.cs.jhu.edu/~ayuille/) and [Dr. Weichao Qiu](https://weichaoqiu.com/). -->
